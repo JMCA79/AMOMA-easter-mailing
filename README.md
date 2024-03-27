@@ -1,3 +1,3 @@
-# AMOMA-easter-mailing
+# AMOMA-emailing
 Newsletter for AMOMA in the Easter Season
 <a href="https://jmca79.github.io/AMOMA-emailing/">visit newsletter</a>
